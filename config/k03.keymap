@@ -5,9 +5,7 @@
 #include <dt-bindings/zmk/outputs.h>
 
 &lt {
-    flavor = "hold-preferred";
-    tapping-term-ms = <200>;
-    hold-while-undecided;
+flavor = "balanced";
 };
 
 / {
