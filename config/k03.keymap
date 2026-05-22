@@ -5,7 +5,8 @@
 #include <dt-bindings/zmk/outputs.h>
 
 &lt {
-flavor = "balanced";
+    flavor = "balanced";
+    quick-tap-ms = <300>;
 };
 
 / {
